@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0033-search-in-rotated-sorted-array) |
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
 ## Sorting
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
