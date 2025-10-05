@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mukool1/Leet-Sols/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mukool1/Leet-Sols/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Mukool1/Leet-Sols/tree/master/0278-first-bad-version) |
 ## Math
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mukool1/Leet-Sols/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Mukool1/Leet-Sols/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
