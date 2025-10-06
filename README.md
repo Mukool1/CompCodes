@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Mukool1/Leet-Sols/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mukool1/Leet-Sols/tree/master/0070-climbing-stairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mukool1/Leet-Sols/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
