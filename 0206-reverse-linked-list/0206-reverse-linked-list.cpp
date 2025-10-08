@@ -23,11 +23,11 @@ public:
         reverse(lis.begin(), lis.end());
         
         ListNode* newHead = new ListNode(lis[0]);
-        ListNode* current = newHead;
+        ListNode* curr = newHead;
 
         for (size_t i = 1; i < lis.size(); ++i) {
-            current->next = new ListNode(lis[i]);
-            current = current->next;
+            curr->next = new ListNode(lis[i]);
+            curr = curr->next;
         }
         return newHead;
     }
