@@ -17,9 +17,9 @@ public:
 
         while(current->next!=nullptr){
             if(current->next->val==val){
-                ListNode*temp=current->next;
+                ListNode*tempo=current->next;
                 current->next=current->next->next;
-                delete temp;
+                delete tempo;
             }
             else{
                 current=current->next;
