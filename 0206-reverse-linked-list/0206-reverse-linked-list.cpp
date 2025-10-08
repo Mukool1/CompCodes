@@ -22,13 +22,13 @@ public:
         }
         reverse(lis.begin(), lis.end());
         
-        ListNode* newHead = new ListNode(lis[0]);
-        ListNode* curr = newHead;
+        ListNode* head2 = new ListNode(lis[0]);
+        ListNode* curr = head2;
 
         for (size_t i = 1; i < lis.size(); ++i) {
             curr->next = new ListNode(lis[i]);
             curr = curr->next;
         }
-        return newHead;
+        return head2;
     }
 };
