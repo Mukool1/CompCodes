@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mukool1/Leet-Sols/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Mukool1/Leet-Sols/tree/master/0136-single-number) |
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mukool1/Leet-Sols/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mukool1/Leet-Sols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Mukool1/Leet-Sols/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mukool1/Leet-Sols/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mukool1/Leet-Sols/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->
