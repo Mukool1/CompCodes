@@ -5,8 +5,7 @@ public:
         int minimumPrice=prices.at(0);
         for (int i = 0; i < prices.size(); i++) {
             minimumPrice=min(minimumPrice,prices.at(i));
-            int thisProfit=prices.at(i)-minimumPrice;
-            profit=max(profit,thisProfit);
+            profit=max(profit,prices.at(i)-minimumPrice);
         }
         return profit;
     }
