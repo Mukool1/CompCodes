@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mukool1/Leet-Sols/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Mukool1/Leet-Sols/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/Mukool1/Leet-Sols/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukool1/Leet-Sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mukool1/Leet-Sols/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Mukool1/Leet-Sols/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Mukool1/Leet-Sols/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Mukool1/Leet-Sols/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Mukool1/Leet-Sols/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Mukool1/Leet-Sols/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
 ## Simulation
 |  |
