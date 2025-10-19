@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Mukool1/Leet-Sols/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mukool1/Leet-Sols/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Mukool1/Leet-Sols/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mukool1/Leet-Sols/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Mukool1/Leet-Sols/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
