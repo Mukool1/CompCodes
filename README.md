@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mukool1/Leet-Sols/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3321-type-of-triangle](https://github.com/Mukool1/Leet-Sols/tree/master/3321-type-of-triangle) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
 | [1205-defanging-an-ip-address](https://github.com/Mukool1/Leet-Sols/tree/master/1205-defanging-an-ip-address) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3194-find-words-containing-character](https://github.com/Mukool1/Leet-Sols/tree/master/3194-find-words-containing-character) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
