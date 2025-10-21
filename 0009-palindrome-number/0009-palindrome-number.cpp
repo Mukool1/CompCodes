@@ -4,16 +4,13 @@ public:
         if(x<0){
             return false;
         }
-        string s=to_string(x);
-        int start=0;
-        int end=s.size()-1;
-        while(start<end){
-            if(s[start]!=s[end]){
-                return false;
-            }
-            start++;
-            end--;
+        long temp=0;
+        int for_check=x;
+        while(x!=0){
+            int digit=x%10;
+            temp=temp*10+digit;
+            x/=10;
         }
-        return true;
+        return for_check==int(temp);
     }
 };
