@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mukool1/Leet-Sols/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1610-xor-operation-in-an-array) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mukool1/Leet-Sols/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3321-type-of-triangle](https://github.com/Mukool1/Leet-Sols/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mukool1/Leet-Sols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
