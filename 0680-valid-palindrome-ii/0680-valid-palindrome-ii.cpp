@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool Pal(string &s,int i,int j){
+    bool Palindrome(string &s,int i,int j){
         while(i<j){
             if(s[i]!=s[j]){
                 return false;
@@ -15,7 +15,7 @@ public:
         int i=0;
         while(i<j){
             if(s[i]!=s[j]){
-               return Pal(s,i+1,j) || Pal(s,i,j-1);
+               return Palindrome(s,i+1,j) || Palindrome(s,i,j-1);
             }
             i++;
             j--;
