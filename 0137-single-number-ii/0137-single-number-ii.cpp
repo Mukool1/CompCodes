@@ -5,8 +5,8 @@ public:
         for(int num:nums){
             freq[num]++;
         } 
-        for(auto& [key,value]:freq){
-            if(value == 1){
+        for(auto& [key,val]:freq){
+            if(val == 1){
                 return key;
             }
         }
