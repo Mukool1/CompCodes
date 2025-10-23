@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Mukool1/Leet-Sols/tree/master/0260-single-number-iii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mukool1/Leet-Sols/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/Mukool1/Leet-Sols/tree/master/0932-monotonic-array) |
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mukool1/Leet-Sols/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/Mukool1/Leet-Sols/tree/master/0260-single-number-iii) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1610-xor-operation-in-an-array) |
 ## String
 |  |
