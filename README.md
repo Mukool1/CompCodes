@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mukool1/Leet-Sols/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mukool1/Leet-Sols/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mukool1/Leet-Sols/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mukool1/Leet-Sols/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mukool1/Leet-Sols/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Mukool1/Leet-Sols/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mukool1/Leet-Sols/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mukool1/Leet-Sols/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
