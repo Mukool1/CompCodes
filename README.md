@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Mukool1/Leet-Sols/tree/master/1511-count-number-of-teams) |
 | [2048-build-array-from-permutation](https://github.com/Mukool1/Leet-Sols/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/Mukool1/Leet-Sols/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukool1/Leet-Sols/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/2551-apply-operations-to-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2169-simple-bank-system](https://github.com/Mukool1/Leet-Sols/tree/master/2169-simple-bank-system) |
 | [4008-restore-finishing-order](https://github.com/Mukool1/Leet-Sols/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mukool1/Leet-Sols/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Mukool1/Leet-Sols/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/Mukool1/Leet-Sols/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukool1/Leet-Sols/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/2551-apply-operations-to-an-array) |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Mukool1/Leet-Sols/tree/master/2481-strictly-palindromic-number) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Mukool1/Leet-Sols/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
