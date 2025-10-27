@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mukool1/Leet-Sols/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mukool1/Leet-Sols/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Mukool1/Leet-Sols/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Mukool1/Leet-Sols/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mukool1/Leet-Sols/tree/master/0070-climbing-stairs) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Mukool1/Leet-Sols/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Mukool1/Leet-Sols/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Mukool1/Leet-Sols/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Mukool1/Leet-Sols/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/2058-concatenation-of-array) |
