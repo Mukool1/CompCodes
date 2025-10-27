@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mukool1/Leet-Sols/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/Mukool1/Leet-Sols/tree/master/0319-bulb-switcher) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Mukool1/Leet-Sols/tree/master/1362-airplane-seat-assignment-probability) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mukool1/Leet-Sols/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mukool1/Leet-Sols/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mukool1/Leet-Sols/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukool1/Leet-Sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0338-counting-bits) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Mukool1/Leet-Sols/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/Mukool1/Leet-Sols/tree/master/1511-count-number-of-teams) |
 ## Memoization
 |  |
@@ -219,9 +221,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Mukool1/Leet-Sols/tree/master/0319-bulb-switcher) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Mukool1/Leet-Sols/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/Mukool1/Leet-Sols/tree/master/2481-strictly-palindromic-number) |
 ## Design
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Mukool1/Leet-Sols/tree/master/2169-simple-bank-system) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Mukool1/Leet-Sols/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
