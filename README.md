@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Mukool1/Leet-Sols/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Mukool1/Leet-Sols/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Mukool1/Leet-Sols/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Mukool1/Leet-Sols/tree/master/0645-set-mismatch) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mukool1/Leet-Sols/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/Mukool1/Leet-Sols/tree/master/0932-monotonic-array) |
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Mukool1/Leet-Sols/tree/master/0645-set-mismatch) |
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3321-type-of-triangle](https://github.com/Mukool1/Leet-Sols/tree/master/3321-type-of-triangle) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Mukool1/Leet-Sols/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/Mukool1/Leet-Sols/tree/master/0645-set-mismatch) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1610-xor-operation-in-an-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mukool1/Leet-Sols/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Mukool1/Leet-Sols/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2169-simple-bank-system](https://github.com/Mukool1/Leet-Sols/tree/master/2169-simple-bank-system) |
 | [4008-restore-finishing-order](https://github.com/Mukool1/Leet-Sols/tree/master/4008-restore-finishing-order) |
