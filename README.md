@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mukool1/Leet-Sols/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Mukool1/Leet-Sols/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Mukool1/Leet-Sols/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Mukool1/Leet-Sols/tree/master/0645-set-mismatch) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mukool1/Leet-Sols/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/Mukool1/Leet-Sols/tree/master/0932-monotonic-array) |
@@ -266,8 +267,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mukool1/Leet-Sols/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mukool1/Leet-Sols/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
