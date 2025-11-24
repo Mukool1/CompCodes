@@ -6,7 +6,7 @@ public:
         for(int i=0;i<n;i++){
             for(int j=1;j<n;j++){
                 int index=(i+j)%n;
-                if(nums[i]<nums[index]){
+                if(nums[i]<nums[index] && i!=index){
                     res[i]=nums[index];
                     break;
                 }
