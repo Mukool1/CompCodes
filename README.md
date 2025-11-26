@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Mukool1/Leet-Sols/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
 | [1205-defanging-an-ip-address](https://github.com/Mukool1/Leet-Sols/tree/master/1205-defanging-an-ip-address) |
+| [1544-make-the-string-great](https://github.com/Mukool1/Leet-Sols/tree/master/1544-make-the-string-great) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3194-find-words-containing-character](https://github.com/Mukool1/Leet-Sols/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/3379-score-of-a-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mukool1/Leet-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0503-next-greater-element-ii) |
+| [1544-make-the-string-great](https://github.com/Mukool1/Leet-Sols/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
