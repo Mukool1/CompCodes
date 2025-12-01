@@ -1,31 +1,46 @@
+struct Node{
+    struct Node*next;
+    int data;
+};
+
 class MyStack {
+private:
+    Node*head;
 public:
-    vector<int> stk;
     MyStack() {
+        head=nullptr;
     }
     
     void push(int x) {
-        stk.push_back(x);
+            struct Node*newNode=new Node();
+            newNode->data=x;
+            newNode->next=head;
+            head=newNode;
     }
     
     int pop() {
-        if(!stk.empty()){
-            int val=stk.back();
-            stk.pop_back();
-            return val;
+        if(head==nullptr){
+            return -1;
         }
-        return -1;
+        int val=head->data;
+        Node*temp=head;
+        head=head->next;
+        delete temp;
+        return val;
     }
     
     int top() {
-        if (!stk.empty()) {
-            return stk.back();
+        if(head!=nullptr){
+            return head->data;
         }
         return -1;
     }
     
     bool empty() {
-        return stk.empty();
+        if(head==nullptr){
+            return true;
+        }
+        return false;
     }
 };
 
