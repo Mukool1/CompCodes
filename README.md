@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mukool1/Leet-Sols/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/Mukool1/Leet-Sols/tree/master/0319-bulb-switcher) |
+| [0415-add-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0415-add-strings) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mukool1/Leet-Sols/tree/master/1362-airplane-seat-assignment-probability) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mukool1/Leet-Sols/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1610-xor-operation-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mukool1/Leet-Sols/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Mukool1/Leet-Sols/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
 | [1205-defanging-an-ip-address](https://github.com/Mukool1/Leet-Sols/tree/master/1205-defanging-an-ip-address) |
 | [1544-make-the-string-great](https://github.com/Mukool1/Leet-Sols/tree/master/1544-make-the-string-great) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Mukool1/Leet-Sols/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Mukool1/Leet-Sols/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Mukool1/Leet-Sols/tree/master/2048-build-array-from-permutation) |
