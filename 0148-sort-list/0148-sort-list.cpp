@@ -24,7 +24,7 @@ public:
         ListNode* head2 = new ListNode(res[0]);
         ListNode* current = head2;
 
-        for (size_t i = 1; i < res.size(); ++i) {
+        for (int i = 1; i < res.size(); ++i) {
             current->next = new ListNode(res[i]);
             current = current->next;
         }
