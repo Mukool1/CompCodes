@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Mukool1/Leet-Sols/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Mukool1/Leet-Sols/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Mukool1/Leet-Sols/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Mukool1/Leet-Sols/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mukool1/Leet-Sols/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Mukool1/Leet-Sols/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Mukool1/Leet-Sols/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mukool1/Leet-Sols/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mukool1/Leet-Sols/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mukool1/Leet-Sols/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Mukool1/Leet-Sols/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0191-number-of-1-bits) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mukool1/Leet-Sols/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mukool1/Leet-Sols/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Mukool1/Leet-Sols/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mukool1/Leet-Sols/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mukool1/Leet-Sols/tree/master/0344-reverse-string) |
@@ -358,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Mukool1/Leet-Sols/tree/master/2974-minimum-number-game) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Mukool1/Leet-Sols/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
