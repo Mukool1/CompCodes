@@ -18,8 +18,17 @@ public:
                 break;
             }
         }
-        auto start = begin(nums)+pivot+1;
-        auto end = begin(nums)+nums.size();
-        reverse(start,end);
+        // auto start = begin(nums)+pivot+1;
+        // auto end = begin(nums)+nums.size();
+        // reverse(start,end);  // We can also use iterator and reverse function
+        //which also uses same time O(N) as we do using 2 pointers
+        
+        int i=pivot+1;
+        int j=nums.size()-1;
+        while(i<=j){
+            swap(nums[i],nums[j]);
+            i++;
+            j--;
+        }
     }
 };
