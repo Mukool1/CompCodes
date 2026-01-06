@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mukool1/Leet-Sols/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mukool1/Leet-Sols/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mukool1/Leet-Sols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mukool1/Leet-Sols/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/Mukool1/Leet-Sols/tree/master/4008-restore-finishing-order) |
 ## Sorting
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Mukool1/Leet-Sols/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mukool1/Leet-Sols/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mukool1/Leet-Sols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mukool1/Leet-Sols/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mukool1/Leet-Sols/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mukool1/Leet-Sols/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukool1/Leet-Sols/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
