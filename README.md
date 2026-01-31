@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mukool1/Leet-Sols/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1927-sum-game](https://github.com/Mukool1/Leet-Sols/tree/master/1927-sum-game) |
 | [2481-strictly-palindromic-number](https://github.com/Mukool1/Leet-Sols/tree/master/2481-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Mukool1/Leet-Sols/tree/master/2769-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mukool1/Leet-Sols/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Mukool1/Leet-Sols/tree/master/1205-defanging-an-ip-address) |
 | [1544-make-the-string-great](https://github.com/Mukool1/Leet-Sols/tree/master/1544-make-the-string-great) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1927-sum-game](https://github.com/Mukool1/Leet-Sols/tree/master/1927-sum-game) |
 | [3194-find-words-containing-character](https://github.com/Mukool1/Leet-Sols/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mukool1/Leet-Sols/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mukool1/Leet-Sols/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
+| [1927-sum-game](https://github.com/Mukool1/Leet-Sols/tree/master/1927-sum-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mukool1/Leet-Sols/tree/master/0148-sort-list) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Mukool1/Leet-Sols/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
