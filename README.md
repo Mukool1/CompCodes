@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mukool1/Leet-Sols/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Mukool1/Leet-Sols/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0415-add-strings) |
+| [0567-permutation-in-string](https://github.com/Mukool1/Leet-Sols/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
 | [1205-defanging-an-ip-address](https://github.com/Mukool1/Leet-Sols/tree/master/1205-defanging-an-ip-address) |
 | [1544-make-the-string-great](https://github.com/Mukool1/Leet-Sols/tree/master/1544-make-the-string-great) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mukool1/Leet-Sols/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mukool1/Leet-Sols/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Mukool1/Leet-Sols/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Mukool1/Leet-Sols/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukool1/Leet-Sols/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mukool1/Leet-Sols/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mukool1/Leet-Sols/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Mukool1/Leet-Sols/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Mukool1/Leet-Sols/tree/master/1927-sum-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Mukool1/Leet-Sols/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
