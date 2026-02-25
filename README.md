@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Mukool1/Leet-Sols/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mukool1/Leet-Sols/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Mukool1/Leet-Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukool1/Leet-Sols/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/Mukool1/Leet-Sols/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Mukool1/Leet-Sols/tree/master/3798-largest-even-number) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mukool1/Leet-Sols/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mukool1/Leet-Sols/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mukool1/Leet-Sols/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Mukool1/Leet-Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4008-restore-finishing-order](https://github.com/Mukool1/Leet-Sols/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
