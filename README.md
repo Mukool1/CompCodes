@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukool1/Leet-Sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Mukool1/Leet-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mukool1/Leet-Sols/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Mukool1/Leet-Sols/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Mukool1/Leet-Sols/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Mukool1/Leet-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mukool1/Leet-Sols/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
@@ -488,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mukool1/Leet-Sols/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mukool1/Leet-Sols/tree/master/0131-palindrome-partitioning) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mukool1/Leet-Sols/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
