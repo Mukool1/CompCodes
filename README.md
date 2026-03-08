@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/Mukool1/Leet-Sols/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mukool1/Leet-Sols/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Mukool1/Leet-Sols/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3194-find-words-containing-character](https://github.com/Mukool1/Leet-Sols/tree/master/3194-find-words-containing-character) |
 | [3271-hash-divided-string](https://github.com/Mukool1/Leet-Sols/tree/master/3271-hash-divided-string) |
 | [3379-score-of-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/3379-score-of-a-string) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mukool1/Leet-Sols/tree/master/0204-count-primes) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Mukool1/Leet-Sols/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 ## Backtracking
 |  |
 | ------- |
