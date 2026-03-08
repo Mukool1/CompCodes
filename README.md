@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mukool1/Leet-Sols/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mukool1/Leet-Sols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mukool1/Leet-Sols/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/Mukool1/Leet-Sols/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [4008-restore-finishing-order](https://github.com/Mukool1/Leet-Sols/tree/master/4008-restore-finishing-order) |
 ## Sorting
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/Mukool1/Leet-Sols/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mukool1/Leet-Sols/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mukool1/Leet-Sols/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/Mukool1/Leet-Sols/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mukool1/Leet-Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4008-restore-finishing-order](https://github.com/Mukool1/Leet-Sols/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
