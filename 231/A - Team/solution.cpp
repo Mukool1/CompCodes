@@ -1,0 +1,1 @@
+#include<bits/stdc++.h>using namespace std; int main(){  int n;  cin>>n;  int games=0;  while(n--){    vector<int> inputs(3,0);    for(int i=0;i<3;i++){      cin>>inputs[i];    }    if(inputs[0]+inputs[1]+inputs[2]>=2)games++;    inputs.clear();  }  cout<<games;  return 0;}
