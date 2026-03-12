@@ -1,0 +1,1 @@
+#include<bits/stdc++.h> using namespace std; int main(){  int n;  cin>>n;  string inp;  int x=0;  while(n--){    cin>>inp;    if(inp=="++X"||inp=="X++")x++;    else x--;  }  cout<<x;  return 0;}
