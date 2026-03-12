@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Mukool1/Leet-Sols/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mukool1/Leet-Sols/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0240-search-a-2d-matrix-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mukool1/Leet-Sols/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Mukool1/Leet-Sols/tree/master/0389-find-the-difference) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Mukool1/Leet-Sols/tree/master/2974-minimum-number-game) |
 ## Merge Sort
@@ -529,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Mukool1/Leet-Sols/tree/master/0901-online-stock-span) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
