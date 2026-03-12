@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Mukool1/Leet-Sols/tree/master/1511-count-number-of-teams) |
 | [1929-concatenation-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2048-build-array-from-permutation](https://github.com/Mukool1/Leet-Sols/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/2058-concatenation-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mukool1/Leet-Sols/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukool1/Leet-Sols/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2974-minimum-number-game](https://github.com/Mukool1/Leet-Sols/tree/master/2974-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Mukool1/Leet-Sols/tree/master/3321-type-of-triangle) |
 ## Counting Sort
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mukool1/Leet-Sols/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/Mukool1/Leet-Sols/tree/master/1927-sum-game) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mukool1/Leet-Sols/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Mukool1/Leet-Sols/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3194-find-words-containing-character](https://github.com/Mukool1/Leet-Sols/tree/master/3194-find-words-containing-character) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0240-search-a-2d-matrix-ii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2974-minimum-number-game](https://github.com/Mukool1/Leet-Sols/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
@@ -537,4 +542,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
