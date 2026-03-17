@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Mukool1/Leet-Sols/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukool1/Leet-Sols/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Mukool1/Leet-Sols/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1470-shuffle-the-array) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mukool1/Leet-Sols/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Mukool1/Leet-Sols/tree/master/0682-baseball-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Mukool1/Leet-Sols/tree/master/1389-create-target-array-in-the-given-order) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mukool1/Leet-Sols/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Mukool1/Leet-Sols/tree/master/2048-build-array-from-permutation) |
