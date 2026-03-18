@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Mukool1/Leet-Sols/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/0387-first-unique-character-in-a-string) |
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukool1/Leet-Sols/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mukool1/Leet-Sols/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Mukool1/Leet-Sols/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mukool1/Leet-Sols/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/Mukool1/Leet-Sols/tree/master/0567-permutation-in-string) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mukool1/Leet-Sols/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mukool1/Leet-Sols/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mukool1/Leet-Sols/tree/master/0496-next-greater-element-i) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mukool1/Leet-Sols/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mukool1/Leet-Sols/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
