@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukool1/Leet-Sols/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mukool1/Leet-Sols/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Mukool1/Leet-Sols/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Mukool1/Leet-Sols/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Mukool1/Leet-Sols/tree/master/0682-baseball-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mukool1/Leet-Sols/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mukool1/Leet-Sols/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukool1/Leet-Sols/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mukool1/Leet-Sols/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/Mukool1/Leet-Sols/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Mukool1/Leet-Sols/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Mukool1/Leet-Sols/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mukool1/Leet-Sols/tree/master/0961-n-repeated-element-in-size-2n-array) |
