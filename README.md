@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mukool1/Leet-Sols/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Mukool1/Leet-Sols/tree/master/1009-complement-of-base-10-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1610-xor-operation-in-an-array) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mukool1/Leet-Sols/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mukool1/Leet-Sols/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mukool1/Leet-Sols/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Mukool1/Leet-Sols/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3194-find-words-containing-character](https://github.com/Mukool1/Leet-Sols/tree/master/3194-find-words-containing-character) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mukool1/Leet-Sols/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3271-hash-divided-string](https://github.com/Mukool1/Leet-Sols/tree/master/3271-hash-divided-string) |
 | [3379-score-of-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mukool1/Leet-Sols/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mukool1/Leet-Sols/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mukool1/Leet-Sols/tree/master/0131-palindrome-partitioning) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mukool1/Leet-Sols/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Union-Find
 |  |
 | ------- |
