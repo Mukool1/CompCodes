@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Mukool1/Leet-Sols/tree/master/1511-count-number-of-teams) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mukool1/Leet-Sols/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mukool1/Leet-Sols/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mukool1/Leet-Sols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mukool1/Leet-Sols/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mukool1/Leet-Sols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2974-minimum-number-game](https://github.com/Mukool1/Leet-Sols/tree/master/2974-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Mukool1/Leet-Sols/tree/master/3321-type-of-triangle) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mukool1/Leet-Sols/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mukool1/Leet-Sols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukool1/Leet-Sols/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Mukool1/Leet-Sols/tree/master/2481-strictly-palindromic-number) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mukool1/Leet-Sols/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mukool1/Leet-Sols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/Mukool1/Leet-Sols/tree/master/1927-sum-game) |
 ## Binary Indexed Tree
 |  |
