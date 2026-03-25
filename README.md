@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Mukool1/Leet-Sols/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukool1/Leet-Sols/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Mukool1/Leet-Sols/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3194-find-words-containing-character](https://github.com/Mukool1/Leet-Sols/tree/master/3194-find-words-containing-character) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mukool1/Leet-Sols/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3271-hash-divided-string](https://github.com/Mukool1/Leet-Sols/tree/master/3271-hash-divided-string) |
 | [3379-score-of-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mukool1/Leet-Sols/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mukool1/Leet-Sols/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Mukool1/Leet-Sols/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mukool1/Leet-Sols/tree/master/2965-find-missing-and-repeated-values) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mukool1/Leet-Sols/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Mukool1/Leet-Sols/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mukool1/Leet-Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
