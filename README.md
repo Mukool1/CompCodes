@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Mukool1/Leet-Sols/tree/master/2965-find-missing-and-repeated-values) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mukool1/Leet-Sols/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mukool1/Leet-Sols/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3280-convert-date-to-binary](https://github.com/Mukool1/Leet-Sols/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mukool1/Leet-Sols/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3321-type-of-triangle](https://github.com/Mukool1/Leet-Sols/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mukool1/Leet-Sols/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mukool1/Leet-Sols/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3271-hash-divided-string](https://github.com/Mukool1/Leet-Sols/tree/master/3271-hash-divided-string) |
+| [3280-convert-date-to-binary](https://github.com/Mukool1/Leet-Sols/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mukool1/Leet-Sols/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mukool1/Leet-Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
