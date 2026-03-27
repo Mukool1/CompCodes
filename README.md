@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukool1/Leet-Sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Mukool1/Leet-Sols/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Mukool1/Leet-Sols/tree/master/0392-is-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mukool1/Leet-Sols/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/Mukool1/Leet-Sols/tree/master/1511-count-number-of-teams) |
 ## Memoization
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mukool1/Leet-Sols/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mukool1/Leet-Sols/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Mukool1/Leet-Sols/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/Mukool1/Leet-Sols/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mukool1/Leet-Sols/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mukool1/Leet-Sols/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Mukool1/Leet-Sols/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Mukool1/Leet-Sols/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Mukool1/Leet-Sols/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
