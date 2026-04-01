@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Mukool1/Leet-Sols/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Mukool1/Leet-Sols/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0572-subtree-of-another-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Mukool1/Leet-Sols/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mukool1/Leet-Sols/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0572-subtree-of-another-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Mukool1/Leet-Sols/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Mukool1/Leet-Sols/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0572-subtree-of-another-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
