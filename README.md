@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mukool1/Leet-Sols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mukool1/Leet-Sols/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Mukool1/Leet-Sols/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mukool1/Leet-Sols/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [4008-restore-finishing-order](https://github.com/Mukool1/Leet-Sols/tree/master/4008-restore-finishing-order) |
 ## Sorting
 |  |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mukool1/Leet-Sols/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Mukool1/Leet-Sols/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mukool1/Leet-Sols/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mukool1/Leet-Sols/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4008-restore-finishing-order](https://github.com/Mukool1/Leet-Sols/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
