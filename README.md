@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mukool1/Leet-Sols/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Mukool1/Leet-Sols/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/Mukool1/Leet-Sols/tree/master/0856-score-of-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Mukool1/Leet-Sols/tree/master/1205-defanging-an-ip-address) |
 | [1544-make-the-string-great](https://github.com/Mukool1/Leet-Sols/tree/master/1544-make-the-string-great) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mukool1/Leet-Sols/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Mukool1/Leet-Sols/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/Mukool1/Leet-Sols/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Mukool1/Leet-Sols/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mukool1/Leet-Sols/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Mukool1/Leet-Sols/tree/master/1544-make-the-string-great) |
