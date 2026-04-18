@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukool1/Leet-Sols/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2293-min-max-game](https://github.com/Mukool1/Leet-Sols/tree/master/2293-min-max-game) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mukool1/Leet-Sols/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Mukool1/Leet-Sols/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mukool1/Leet-Sols/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukool1/Leet-Sols/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2293-min-max-game](https://github.com/Mukool1/Leet-Sols/tree/master/2293-min-max-game) |
 | [2551-apply-operations-to-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/2551-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/Mukool1/Leet-Sols/tree/master/2974-minimum-number-game) |
 | [3271-hash-divided-string](https://github.com/Mukool1/Leet-Sols/tree/master/3271-hash-divided-string) |
