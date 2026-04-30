@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Mukool1/Leet-Sols/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Mukool1/Leet-Sols/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mukool1/Leet-Sols/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Mukool1/Leet-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mukool1/Leet-Sols/tree/master/0485-max-consecutive-ones) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Mukool1/Leet-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Mukool1/Leet-Sols/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Mukool1/Leet-Sols/tree/master/0561-array-partition) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Mukool1/Leet-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Mukool1/Leet-Sols/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Mukool1/Leet-Sols/tree/master/0561-array-partition) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Mukool1/Leet-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Mukool1/Leet-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Mukool1/Leet-Sols/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mukool1/Leet-Sols/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mukool1/Leet-Sols/tree/master/0389-find-the-difference) |
@@ -653,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Mukool1/Leet-Sols/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mukool1/Leet-Sols/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Mukool1/Leet-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -708,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mukool1/Leet-Sols/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Monotonic Queue
 |  |
@@ -730,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mukool1/Leet-Sols/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
