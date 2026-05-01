@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mukool1/Leet-Sols/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Mukool1/Leet-Sols/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Mukool1/Leet-Sols/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mukool1/Leet-Sols/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mukool1/Leet-Sols/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mukool1/Leet-Sols/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mukool1/Leet-Sols/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Mukool1/Leet-Sols/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mukool1/Leet-Sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Mukool1/Leet-Sols/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Mukool1/Leet-Sols/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mukool1/Leet-Sols/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Mukool1/Leet-Sols/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Mukool1/Leet-Sols/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mukool1/Leet-Sols/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Mukool1/Leet-Sols/tree/master/0383-ransom-note) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mukool1/Leet-Sols/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Mukool1/Leet-Sols/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/Mukool1/Leet-Sols/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Mukool1/Leet-Sols/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mukool1/Leet-Sols/tree/master/1247-minimum-swaps-to-make-strings-equal) |
