@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mukool1/Leet-Sols/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Mukool1/Leet-Sols/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Mukool1/Leet-Sols/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Mukool1/Leet-Sols/tree/master/0856-score-of-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Mukool1/Leet-Sols/tree/master/1205-defanging-an-ip-address) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mukool1/Leet-Sols/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Mukool1/Leet-Sols/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
