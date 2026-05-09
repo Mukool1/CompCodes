@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Mukool1/Leet-Sols/tree/master/2236-root-equals-sum-of-children) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Mukool1/Leet-Sols/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mukool1/Leet-Sols/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Mukool1/Leet-Sols/tree/master/2236-root-equals-sum-of-children) |
