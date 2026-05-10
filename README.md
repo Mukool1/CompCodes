@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mukool1/Leet-Sols/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mukool1/Leet-Sols/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Mukool1/Leet-Sols/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/Mukool1/Leet-Sols/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Mukool1/Leet-Sols/tree/master/0319-bulb-switcher) |
 | [0415-add-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0415-add-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mukool1/Leet-Sols/tree/master/1247-minimum-swaps-to-make-strings-equal) |
