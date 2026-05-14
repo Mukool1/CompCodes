@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Mukool1/Leet-Sols/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Mukool1/Leet-Sols/tree/master/0319-bulb-switcher) |
 | [0415-add-strings](https://github.com/Mukool1/Leet-Sols/tree/master/0415-add-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Mukool1/Leet-Sols/tree/master/1137-n-th-tribonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mukool1/Leet-Sols/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1323-maximum-69-number](https://github.com/Mukool1/Leet-Sols/tree/master/1323-maximum-69-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mukool1/Leet-Sols/tree/master/1362-airplane-seat-assignment-probability) |
@@ -250,12 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Mukool1/Leet-Sols/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mukool1/Leet-Sols/tree/master/0392-is-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/Mukool1/Leet-Sols/tree/master/1137-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mukool1/Leet-Sols/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/Mukool1/Leet-Sols/tree/master/1511-count-number-of-teams) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mukool1/Leet-Sols/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Mukool1/Leet-Sols/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
