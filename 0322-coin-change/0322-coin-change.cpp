@@ -48,9 +48,13 @@ public:
         // int ans=solve(coins, amount);
         // if(ans!=INT_MAX)return ans;
         // return -1;
-        vector<int>dp(amount+1,-1);
-        int ans=solveMemo(coins,amount,dp);
+        // vector<int>dp(amount+1,-1);
+        // int ans=solveMemo(coins,amount,dp);
+        // if(ans!=INT_MAX)return ans;
+        // return -1;
+        int ans=solveTab(coins,amount);
         if(ans!=INT_MAX)return ans;
         return -1;
+
     }   
 };
