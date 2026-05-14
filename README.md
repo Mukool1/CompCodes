@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Mukool1/Leet-Sols/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Mukool1/Leet-Sols/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Mukool1/Leet-Sols/tree/master/0682-baseball-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mukool1/Leet-Sols/tree/master/0746-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mukool1/Leet-Sols/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0912-sort-an-array) |
 | [0932-monotonic-array](https://github.com/Mukool1/Leet-Sols/tree/master/0932-monotonic-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Mukool1/Leet-Sols/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Mukool1/Leet-Sols/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mukool1/Leet-Sols/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mukool1/Leet-Sols/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Mukool1/Leet-Sols/tree/master/1137-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mukool1/Leet-Sols/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/Mukool1/Leet-Sols/tree/master/1511-count-number-of-teams) |
