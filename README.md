@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mukool1/Leet-Sols/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mukool1/Leet-Sols/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Mukool1/Leet-Sols/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Mukool1/Leet-Sols/tree/master/1143-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mukool1/Leet-Sols/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/Mukool1/Leet-Sols/tree/master/1511-count-number-of-teams) |
 ## Memoization
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Mukool1/Leet-Sols/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Mukool1/Leet-Sols/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Mukool1/Leet-Sols/tree/master/0856-score-of-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Mukool1/Leet-Sols/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/Mukool1/Leet-Sols/tree/master/1205-defanging-an-ip-address) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mukool1/Leet-Sols/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1544-make-the-string-great](https://github.com/Mukool1/Leet-Sols/tree/master/1544-make-the-string-great) |
