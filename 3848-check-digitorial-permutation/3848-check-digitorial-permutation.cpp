@@ -1,12 +1,9 @@
 class Solution {
 public:
     bool isDigitorialPermutation(int n) {
-        int fac[10];
-        fac[0]=1;
-        for(int i=1;i<10;i++){
-            fac[i]=fac[i-1]*i;
-        }
-        int temp=n,sum=0;
+        int fac[10]={1,1,2,6,24,120,720,5040, 40320, 362880};
+        int temp=n;
+        long long sum=0;
         unordered_map<int,int>mp;
         while(temp){
             int digit=temp%10;
