@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mukool1/Leet-Sols/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mukool1/Leet-Sols/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2864-maximum-odd-binary-number](https://github.com/Mukool1/Leet-Sols/tree/master/2864-maximum-odd-binary-number) |
+| [3019-number-of-changing-keys](https://github.com/Mukool1/Leet-Sols/tree/master/3019-number-of-changing-keys) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Mukool1/Leet-Sols/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3194-find-words-containing-character](https://github.com/Mukool1/Leet-Sols/tree/master/3194-find-words-containing-character) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mukool1/Leet-Sols/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
