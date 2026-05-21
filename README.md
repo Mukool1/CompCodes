@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Mukool1/Leet-Sols/tree/master/1511-count-number-of-teams) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mukool1/Leet-Sols/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/Mukool1/Leet-Sols/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mukool1/Leet-Sols/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mukool1/Leet-Sols/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mukool1/Leet-Sols/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mukool1/Leet-Sols/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mukool1/Leet-Sols/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mukool1/Leet-Sols/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/Mukool1/Leet-Sols/tree/master/1927-sum-game) |
