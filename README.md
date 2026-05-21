@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mukool1/Leet-Sols/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/Mukool1/Leet-Sols/tree/master/2079-watering-plants) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mukool1/Leet-Sols/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mukool1/Leet-Sols/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2169-simple-bank-system](https://github.com/Mukool1/Leet-Sols/tree/master/2169-simple-bank-system) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mukool1/Leet-Sols/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/Mukool1/Leet-Sols/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mukool1/Leet-Sols/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mukool1/Leet-Sols/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2864-maximum-odd-binary-number](https://github.com/Mukool1/Leet-Sols/tree/master/2864-maximum-odd-binary-number) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mukool1/Leet-Sols/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mukool1/Leet-Sols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukool1/Leet-Sols/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Mukool1/Leet-Sols/tree/master/2481-strictly-palindromic-number) |
