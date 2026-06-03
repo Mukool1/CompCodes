@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mukool1/Leet-Sols/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mukool1/Leet-Sols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mukool1/Leet-Sols/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mukool1/Leet-Sols/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Mukool1/Leet-Sols/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mukool1/Leet-Sols/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [4008-restore-finishing-order](https://github.com/Mukool1/Leet-Sols/tree/master/4008-restore-finishing-order) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Mukool1/Leet-Sols/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2974-minimum-number-game](https://github.com/Mukool1/Leet-Sols/tree/master/2974-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Mukool1/Leet-Sols/tree/master/3321-type-of-triangle) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mukool1/Leet-Sols/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mukool1/Leet-Sols/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mukool1/Leet-Sols/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mukool1/Leet-Sols/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukool1/Leet-Sols/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Mukool1/Leet-Sols/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/2551-apply-operations-to-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mukool1/Leet-Sols/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3794-reverse-string-prefix](https://github.com/Mukool1/Leet-Sols/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mukool1/Leet-Sols/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mukool1/Leet-Sols/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2864-maximum-odd-binary-number](https://github.com/Mukool1/Leet-Sols/tree/master/2864-maximum-odd-binary-number) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mukool1/Leet-Sols/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
