@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Mukool1/Leet-Sols/tree/master/1511-count-number-of-teams) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mukool1/Leet-Sols/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/Mukool1/Leet-Sols/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Mukool1/Leet-Sols/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mukool1/Leet-Sols/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mukool1/Leet-Sols/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0912-sort-an-array) |
 | [1137-height-checker](https://github.com/Mukool1/Leet-Sols/tree/master/1137-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukool1/Leet-Sols/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Mukool1/Leet-Sols/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mukool1/Leet-Sols/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mukool1/Leet-Sols/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mukool1/Leet-Sols/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Mukool1/Leet-Sols/tree/master/1009-complement-of-base-10-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/1610-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Mukool1/Leet-Sols/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mukool1/Leet-Sols/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mukool1/Leet-Sols/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Mukool1/Leet-Sols/tree/master/1205-defanging-an-ip-address) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mukool1/Leet-Sols/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1544-make-the-string-great](https://github.com/Mukool1/Leet-Sols/tree/master/1544-make-the-string-great) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Mukool1/Leet-Sols/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mukool1/Leet-Sols/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mukool1/Leet-Sols/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mukool1/Leet-Sols/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukool1/Leet-Sols/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukool1/Leet-Sols/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Mukool1/Leet-Sols/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2169-simple-bank-system](https://github.com/Mukool1/Leet-Sols/tree/master/2169-simple-bank-system) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Mukool1/Leet-Sols/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mukool1/Leet-Sols/tree/master/2395-find-subarrays-with-equal-sum) |
