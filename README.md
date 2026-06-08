@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mukool1/Leet-Sols/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mukool1/Leet-Sols/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mukool1/Leet-Sols/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Mukool1/Leet-Sols/tree/master/2169-simple-bank-system) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mukool1/Leet-Sols/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mukool1/Leet-Sols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mukool1/Leet-Sols/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukool1/Leet-Sols/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Mukool1/Leet-Sols/tree/master/2481-strictly-palindromic-number) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Mukool1/Leet-Sols/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mukool1/Leet-Sols/tree/master/2058-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/Mukool1/Leet-Sols/tree/master/2079-watering-plants) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mukool1/Leet-Sols/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Mukool1/Leet-Sols/tree/master/2169-simple-bank-system) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mukool1/Leet-Sols/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/2221-find-triangular-sum-of-an-array) |
