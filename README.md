@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mukool1/Leet-Sols/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Mukool1/Leet-Sols/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mukool1/Leet-Sols/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3838-weighted-word-mapping](https://github.com/Mukool1/Leet-Sols/tree/master/3838-weighted-word-mapping) |
 | [4008-restore-finishing-order](https://github.com/Mukool1/Leet-Sols/tree/master/4008-restore-finishing-order) |
 ## Sorting
 |  |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukool1/Leet-Sols/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/Mukool1/Leet-Sols/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Mukool1/Leet-Sols/tree/master/3798-largest-even-number) |
+| [3838-weighted-word-mapping](https://github.com/Mukool1/Leet-Sols/tree/master/3838-weighted-word-mapping) |
 ## Interactive
 |  |
 | ------- |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Mukool1/Leet-Sols/tree/master/2974-minimum-number-game) |
 | [3271-hash-divided-string](https://github.com/Mukool1/Leet-Sols/tree/master/3271-hash-divided-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukool1/Leet-Sols/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Mukool1/Leet-Sols/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
