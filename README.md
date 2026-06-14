@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mukool1/Leet-Sols/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/2551-apply-operations-to-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Mukool1/Leet-Sols/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Mukool1/Leet-Sols/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mukool1/Leet-Sols/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Mukool1/Leet-Sols/tree/master/2974-minimum-number-game) |
 | [3194-find-words-containing-character](https://github.com/Mukool1/Leet-Sols/tree/master/3194-find-words-containing-character) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mukool1/Leet-Sols/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mukool1/Leet-Sols/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Mukool1/Leet-Sols/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Mukool1/Leet-Sols/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mukool1/Leet-Sols/tree/master/2965-find-missing-and-repeated-values) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mukool1/Leet-Sols/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
