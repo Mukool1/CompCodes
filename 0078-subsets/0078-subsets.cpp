@@ -1,14 +1,14 @@
 class Solution {
 public:
     //backtracking
-    void printSubsets(vector<int>nums,vector<vector<int>>&ans,vector<int>&curr,int i){
+    void backtrack(vector<int>nums,vector<vector<int>>&ans,vector<int>&curr,int i){
         if(i==nums.size()){
             ans.push_back(curr);return;
         }
         curr.push_back(nums[i]);
-        printSubsets(nums,ans,curr,i+1);
+        backtrack(nums,ans,curr,i+1);
         curr.pop_back();
-        printSubsets(nums,ans,curr,i+1);
+        backtrack(nums,ans,curr,i+1);
     }
     //i/p o/p
     void ipop(vector<int>&nums,vector<vector<int>>&ans,vector<int>&curr){
@@ -28,9 +28,9 @@ public:
     vector<vector<int>> subsets(vector<int>& nums) { 
         vector<vector<int>>ans;
         vector<int>curr;
-        // printSubsets(nums,ans,curr,0);
-        ipop(nums,ans,curr);
-        sort(ans.begin(),ans.end());
+        backtrack(nums,ans,curr,0);
+        // ipop(nums,ans,curr);
+        // sort(ans.begin(),ans.end());
         return ans;
     }
 };
