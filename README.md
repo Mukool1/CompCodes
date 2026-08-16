@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mukool1/Leet-Sols/tree/master/0078-subsets) |
+| [3693-climbing-stairs-ii](https://github.com/Mukool1/Leet-Sols/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mukool1/Leet-Sols/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/Mukool1/Leet-Sols/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
