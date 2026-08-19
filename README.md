@@ -67,9 +67,14 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Mukool1/Leet-Sols/tree/master/0046-permutations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mukool1/Leet-Sols/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mukool1/Leet-Sols/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Mukool1/Leet-Sols/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
