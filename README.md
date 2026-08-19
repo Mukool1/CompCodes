@@ -70,6 +70,7 @@
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mukool1/Leet-Sols/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Mukool1/Leet-Sols/tree/master/0216-combination-sum-iii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mukool1/Leet-Sols/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mukool1/Leet-Sols/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Mukool1/Leet-Sols/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
