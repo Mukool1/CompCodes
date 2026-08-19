@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Mukool1/Leet-Sols/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0090-subsets-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mukool1/Leet-Sols/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -77,4 +78,9 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Mukool1/Leet-Sols/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
