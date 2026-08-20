@@ -71,14 +71,20 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0047-permutations-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mukool1/Leet-Sols/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0047-permutations-ii) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mukool1/Leet-Sols/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
