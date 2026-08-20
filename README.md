@@ -72,6 +72,7 @@
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0047-permutations-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mukool1/Leet-Sols/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Backtracking
 |  |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0047-permutations-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
