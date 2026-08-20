@@ -70,8 +70,10 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0040-combination-sum-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
