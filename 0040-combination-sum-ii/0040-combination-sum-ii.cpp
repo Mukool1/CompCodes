@@ -3,10 +3,10 @@ public:
     void ipop(vector<int>& candidates, int target,vector<int>&curr,vector<vector<int>>&ans,map<vector<int>,int>&mp){
         if(target<0)return;
         if(target==0){
-            if(!mp.count(curr)){
+            // if(!mp.count(curr)){
                 ans.push_back(curr);
-                mp[curr]++;
-            }
+                // mp[curr]++;
+            // }
             return;
         }   
         for(int i=0;i<candidates.size();i++){
