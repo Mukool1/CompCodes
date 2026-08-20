@@ -12,6 +12,7 @@ public:
         for(int i=0;i<candidates.size();i++){
             vector<int>ip=candidates;
             if(i>0 && candidates[i]==candidates[i-1])continue;
+            if(target<candidates[i])break;
             for(int j=0;j<=i;j++)ip.erase(ip.begin());
             curr.push_back(candidates[i]);
             ipop(ip,target-candidates[i],curr,ans,mp);
