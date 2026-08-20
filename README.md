@@ -71,9 +71,14 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0040-combination-sum-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mukool1/Leet-Sols/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0040-combination-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mukool1/Leet-Sols/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
