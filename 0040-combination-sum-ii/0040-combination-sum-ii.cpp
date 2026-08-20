@@ -1,24 +1,30 @@
 class Solution {
 public:
-    void solve(vector<int>& candidates, int target,vector<int>&curr,vector<vector<int>>&res,int i){
+    void ipop(vector<int>& candidates, int target,vector<int>&curr,vector<vector<int>>&ans,map<vector<int>,int>&mp){
+        if(target<0)return;
         if(target==0){
-            res.push_back(curr);
+            if(!mp.count(curr)){
+                ans.push_back(curr);
+                mp[curr]++;
+            }
             return;
-        }
-        for(int j=i;j<candidates.size();j++){
-            if(j > i && candidates[j] == candidates[j - 1]) continue;
-            if (candidates[j] > target) break;
-            curr.push_back(candidates[j]);
-            solve(candidates,target-candidates[j],curr,res,j+1);
+        }   
+        for(int i=0;i<candidates.size();i++){
+            vector<int>ip=candidates;
+            if(i>0 && candidates[i]==candidates[i-1])continue;
+            for(int j=0;j<=i;j++)ip.erase(ip.begin());
+            curr.push_back(candidates[i]);
+            ipop(ip,target-candidates[i],curr,ans,mp);
             curr.pop_back();
-        }
 
+        }
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        vector<vector<int>>res;
+        sort(candidates.begin(),candidates.end());
+        vector<vector<int>>ans;
         vector<int>curr;
-        sort(candidates.begin(), candidates.end());
-        solve(candidates,target,curr,res,0);
-        return res;
+        map<vector<int>,int>mp;
+        ipop(candidates,target,curr,ans,mp);
+        return ans;
     }
 };
