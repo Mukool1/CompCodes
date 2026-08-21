@@ -77,6 +77,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mukool1/Leet-Sols/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0047-permutations-ii) |
@@ -91,9 +92,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mukool1/Leet-Sols/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mukool1/Leet-Sols/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mukool1/Leet-Sols/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
