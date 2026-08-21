@@ -1,19 +1,21 @@
 class Solution {
 public:
-    void permutate(vector<int>&nums,int index,vector<vector<int>>& ans){
-        if(index==nums.size()){
-            ans.push_back(nums);
+    void ipop(vector<int>& nums, vector<int>& curr, vector<vector<int>>& ans) {
+        if (nums.size() == 0) {
+            ans.push_back(curr);
             return;
         }
-        for(int i=index;i<nums.size();i++){
-            swap(nums[i],nums[index]);
-            permutate(nums,index+1,ans);
-            swap(nums[i],nums[index]);
+        for (int i = 0; i < nums.size(); i++) {
+            vector<int> ip(nums), op(curr);
+            op.push_back(nums[i]);
+            ip.erase(ip.begin()+i);
+            ipop(ip, op,ans);
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>>ans;
-        permutate(nums,0,ans);
+        vector<vector<int>> ans;
+        vector<int> curr;
+        ipop(nums, curr, ans);
         return ans;
     }
 };
