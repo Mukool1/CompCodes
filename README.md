@@ -71,6 +71,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Mukool1/Leet-Sols/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0047-permutations-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mukool1/Leet-Sols/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -80,6 +81,7 @@
 | [0022-generate-parentheses](https://github.com/Mukool1/Leet-Sols/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Mukool1/Leet-Sols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Mukool1/Leet-Sols/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0047-permutations-ii) |
 ## Simulation
 |  |
