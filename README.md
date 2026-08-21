@@ -74,6 +74,7 @@
 | [0046-permutations](https://github.com/Mukool1/Leet-Sols/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0047-permutations-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukool1/Leet-Sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mukool1/Leet-Sols/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Backtracking
 |  |
@@ -108,4 +109,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mukool1/Leet-Sols/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukool1/Leet-Sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukool1/Leet-Sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
