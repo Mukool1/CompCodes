@@ -1,21 +1,22 @@
 class Solution {
 public:
-
-    void generate(int o,int c,string s,int n,vector<string>&res){
-        if(o==c &&o+c==n*2){
-            res.push_back(s);
+    void generate(int n,int open,int close,string curr,vector<string>&ans){
+        if(open>n || close>n)return;
+        if(open==close && open+close ==2*n){
+            ans.push_back(curr);
             return;
         }
-        if(o<n){
-            generate(o+1,c,s+"(",n,res);
+        if(open>close){
+            generate(n,open,close+1,curr+")",ans);
         }
-        if(c<o){
-            generate(o,c+1,s+")",n,res);
+        if(open<n){
+            generate(n,open+1,close,curr+"(",ans);
         }
     }
     vector<string> generateParenthesis(int n) {
-        vector<string>res;
-        generate(0,0,"",n,res);
-        return res;
+        vector<string>ans;
+        string curr="";
+        generate(n,0,0,curr,ans);
+        return ans;
     }
 };
