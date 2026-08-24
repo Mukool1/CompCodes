@@ -72,11 +72,13 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mukool1/Leet-Sols/tree/master/0062-unique-paths) |
 | [0650-2-keys-keyboard](https://github.com/Mukool1/Leet-Sols/tree/master/0650-2-keys-keyboard) |
 | [1872-stone-game-viii](https://github.com/Mukool1/Leet-Sols/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mukool1/Leet-Sols/tree/master/0062-unique-paths) |
 | [0650-2-keys-keyboard](https://github.com/Mukool1/Leet-Sols/tree/master/0650-2-keys-keyboard) |
 | [1872-stone-game-viii](https://github.com/Mukool1/Leet-Sols/tree/master/1872-stone-game-viii) |
 ## Array
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Mukool1/Leet-Sols/tree/master/1872-stone-game-viii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mukool1/Leet-Sols/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
