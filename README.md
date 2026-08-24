@@ -73,8 +73,30 @@
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/Mukool1/Leet-Sols/tree/master/0650-2-keys-keyboard) |
+| [1872-stone-game-viii](https://github.com/Mukool1/Leet-Sols/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/Mukool1/Leet-Sols/tree/master/0650-2-keys-keyboard) |
+| [1872-stone-game-viii](https://github.com/Mukool1/Leet-Sols/tree/master/1872-stone-game-viii) |
+## Array
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mukool1/Leet-Sols/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mukool1/Leet-Sols/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mukool1/Leet-Sols/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mukool1/Leet-Sols/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mukool1/Leet-Sols/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
