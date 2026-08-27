@@ -29,6 +29,23 @@ public:
         return dp[nums.size()-1];
         
     }
+
+    int tabOpt(vector<int>&nums){
+        int n=nums.size();
+        if(n==0)return 0;
+        if(n==1)return nums[0];
+        int prev2=nums[0];
+        int prev1=max(nums[0],nums[1]);
+
+        for(int i=2;i<nums.size();i++){
+            int curr=max(nums[i]+prev2,prev1);
+            prev2=prev1;
+            prev1=curr;
+        }
+
+        return prev1;
+        
+    }
     int rob(vector<int>& nums) {
         // if(nums.size()<=1)return nums[0];
         // vector<int>dp(nums.size()+1);
@@ -42,6 +59,7 @@ public:
         // vector<int>dp(nums.size(),-1);
         // return rec(nums.size()-1,nums);
         // return memo(dp,nums.size()-1,nums);
-        return tab(nums);
+        // return tab(nums);
+        return tabOpt(nums);
     }
 };
