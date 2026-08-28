@@ -104,8 +104,21 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Mukool1/Leet-Sols/tree/master/0198-house-robber) |
+| [0384-shuffle-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0384-shuffle-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Mukool1/Leet-Sols/tree/master/0198-house-robber) |
+## Math
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0384-shuffle-an-array) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
