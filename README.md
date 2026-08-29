@@ -112,6 +112,7 @@
 | ------- |
 | [0198-house-robber](https://github.com/Mukool1/Leet-Sols/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/Mukool1/Leet-Sols/tree/master/0396-rotate-function) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Mukool1/Leet-Sols/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Math
 |  |
 | ------- |
@@ -133,4 +134,13 @@
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Mukool1/Leet-Sols/tree/master/1768-merge-strings-alternately) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Mukool1/Leet-Sols/tree/master/2645-minimum-additions-to-make-valid-string) |
+## Stack
+|  |
+| ------- |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Mukool1/Leet-Sols/tree/master/2645-minimum-additions-to-make-valid-string) |
+## Greedy
+|  |
+| ------- |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Mukool1/Leet-Sols/tree/master/2645-minimum-additions-to-make-valid-string) |
 <!---LeetCode Topics End-->
