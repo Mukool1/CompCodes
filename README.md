@@ -125,4 +125,12 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Mukool1/Leet-Sols/tree/master/0384-shuffle-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Mukool1/Leet-Sols/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Mukool1/Leet-Sols/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
