@@ -110,4 +110,8 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mukool1/Leet-Sols/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
