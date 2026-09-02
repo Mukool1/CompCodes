@@ -105,6 +105,7 @@
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Mukool1/Leet-Sols/tree/master/0164-maximum-gap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mukool1/Leet-Sols/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Greedy
 |  |
@@ -114,4 +115,20 @@
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/0728-self-dividing-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Mukool1/Leet-Sols/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Mukool1/Leet-Sols/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Mukool1/Leet-Sols/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Mukool1/Leet-Sols/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
