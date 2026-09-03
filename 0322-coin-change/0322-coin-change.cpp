@@ -1,60 +1,28 @@
+int dp[13][10005];
+
 class Solution {
 public:
-//recursion
-    int solve(vector<int>& coins, int amount) {
-        if (amount < 0) {
-            return INT_MAX;
-        }
-        if (amount == 0)
-            return 0;
-        int mini = INT_MAX;
-        for (int i : coins) {
-            int ans = solve(coins, amount - i);
-            if (ans != INT_MAX)
-                mini=min(mini, 1 + ans);
-        }
-        return mini;
-    }
+//recursion 
+int rec(vector<int>&coins,int amount,int indx){
+    if(amount==0)return 0;
+    if(amount<0 || indx>=coins.size())return 1e9;
+    int take=1+rec(coins,amount-coins[indx],indx);
+    int nt=rec(coins,amount,indx+1);
+    return min(take,nt);
+}
 //memoisation
-    int solveMemo(vector<int>& coins, int amount,vector<int>&dp){
-        if (amount < 0) {
-            return INT_MAX;
-        }
-        if (amount == 0)
-            return 0;
-        if(dp[amount]!=-1)return dp[amount];
-        int mini = INT_MAX;
-        for (int i : coins) {
-            int ans = solveMemo(coins, amount - i,dp);
-            if (ans != INT_MAX)
-                mini=min(mini, 1 + ans);
-        }
-        dp[amount]=mini;
-        return mini;
-    }
-//tabulation
-    int solveTab(vector<int>& coins, int amount){
-        vector<int>dp(amount+1,INT_MAX);
-        dp[0]=0;
-        for(int i=1;i<=amount;i++){
-            for(int j=0;j<coins.size();j++){
-                if(i-coins[j]>=0 && dp[i-coins[j]]!=INT_MAX)
-                dp[i]=min(dp[i],1+dp[i-coins[j]]);
-            }
-        }
-        return dp[amount];
-    }
+int memo(vector<int>&coins,int amount,int indx){
+    if(amount==0)return 0;
+    if(amount<0 || indx>=coins.size())return 1e9;
+    if(dp[indx][amount]!=-1)return dp[indx][amount];
+    int take=1+memo(coins,amount-coins[indx],indx);
+    int nt=memo(coins,amount,indx+1);
+    return dp[indx][amount]=min(take,nt);
+}
     int coinChange(vector<int>& coins, int amount) {
-        // int ans=solve(coins, amount);
-        // if(ans!=INT_MAX)return ans;
-        // return -1;
-        // vector<int>dp(amount+1,-1);
-        // int ans=solveMemo(coins,amount,dp);
-        // if(ans!=INT_MAX)return ans;
-        // return -1;
-        int ans=solveTab(coins,amount);
-        if(ans!=INT_MAX)return ans;
-        return -1;
-
+        memset(dp,-1,sizeof(dp));
+        // int ans=rec(coins,amount,0);
+        int ans=memo(coins,amount,0);
+        return ans==1e9?-1:ans;
     }   
 };
