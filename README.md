@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Mukool1/Leet-Sols/tree/master/0728-self-dividing-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mukool1/Leet-Sols/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/Mukool1/Leet-Sols/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0518-coin-change-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mukool1/Leet-Sols/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -165,4 +167,5 @@
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukool1/Leet-Sols/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mukool1/Leet-Sols/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
