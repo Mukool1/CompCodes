@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Mukool1/Leet-Sols/tree/master/0164-maximum-gap) |
+| [0518-coin-change-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0518-coin-change-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mukool1/Leet-Sols/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Greedy
 |  |
@@ -131,4 +132,16 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Mukool1/Leet-Sols/tree/master/0164-maximum-gap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0518-coin-change-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
