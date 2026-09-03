@@ -108,6 +108,7 @@
 | [0164-maximum-gap](https://github.com/Mukool1/Leet-Sols/tree/master/0164-maximum-gap) |
 | [0322-coin-change](https://github.com/Mukool1/Leet-Sols/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0518-coin-change-ii) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukool1/Leet-Sols/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mukool1/Leet-Sols/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Greedy
 |  |
@@ -152,4 +153,16 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Mukool1/Leet-Sols/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukool1/Leet-Sols/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukool1/Leet-Sols/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukool1/Leet-Sols/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
