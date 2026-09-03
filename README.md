@@ -114,9 +114,18 @@
 ## Math
 |  |
 | ------- |
+| [2317-maximum-xor-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/2317-maximum-xor-after-operations) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Mukool1/Leet-Sols/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Mukool1/Leet-Sols/tree/master/3857-minimum-cost-to-split-into-ones) |
+## Array
+|  |
+| ------- |
+| [2317-maximum-xor-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/2317-maximum-xor-after-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2317-maximum-xor-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/2317-maximum-xor-after-operations) |
 <!---LeetCode Topics End-->
