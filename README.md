@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Mukool1/Leet-Sols/tree/master/0164-maximum-gap) |
+| [0322-coin-change](https://github.com/Mukool1/Leet-Sols/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0518-coin-change-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mukool1/Leet-Sols/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Greedy
@@ -135,13 +136,20 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Mukool1/Leet-Sols/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0518-coin-change-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Mukool1/Leet-Sols/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Mukool1/Leet-Sols/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Mukool1/Leet-Sols/tree/master/0518-coin-change-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mukool1/Leet-Sols/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
