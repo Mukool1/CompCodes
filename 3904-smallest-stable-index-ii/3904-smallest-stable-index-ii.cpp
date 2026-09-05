@@ -15,11 +15,10 @@ public:
             int mini=suffix_min[i];
             score=maxm-mini;
             if(score<=k){
-                ans=i;
-                break;
+                return i;
             }
             mini=INT_MAX;
         }
-        return ans;
+        return -1;
     }
 };
