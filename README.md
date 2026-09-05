@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 10 |
+| 15 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (7)
@@ -37,6 +37,7 @@
 |---|---------|------------|----------|
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mukool1/CompCodes/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mukool1/CompCodes/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mukool1/CompCodes/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 
 ### brute force
 
