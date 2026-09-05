@@ -120,12 +120,14 @@
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/Mukool1/Leet-Sols/tree/master/0740-delete-and-earn) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Mukool1/Leet-Sols/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Mukool1/Leet-Sols/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Array
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/Mukool1/Leet-Sols/tree/master/0740-delete-and-earn) |
 | [2317-maximum-xor-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/2317-maximum-xor-after-operations) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Mukool1/Leet-Sols/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,4 +136,21 @@
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/Mukool1/Leet-Sols/tree/master/0740-delete-and-earn) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Mukool1/Leet-Sols/tree/master/3186-maximum-total-damage-with-spell-casting) |
+## Two Pointers
+|  |
+| ------- |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Mukool1/Leet-Sols/tree/master/3186-maximum-total-damage-with-spell-casting) |
+## Binary Search
+|  |
+| ------- |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Mukool1/Leet-Sols/tree/master/3186-maximum-total-damage-with-spell-casting) |
+## Sorting
+|  |
+| ------- |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Mukool1/Leet-Sols/tree/master/3186-maximum-total-damage-with-spell-casting) |
+## Counting
+|  |
+| ------- |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Mukool1/Leet-Sols/tree/master/3186-maximum-total-damage-with-spell-casting) |
 <!---LeetCode Topics End-->
