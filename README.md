@@ -119,13 +119,19 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/Mukool1/Leet-Sols/tree/master/0740-delete-and-earn) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Mukool1/Leet-Sols/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Array
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/Mukool1/Leet-Sols/tree/master/0740-delete-and-earn) |
 | [2317-maximum-xor-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/2317-maximum-xor-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2317-maximum-xor-after-operations](https://github.com/Mukool1/Leet-Sols/tree/master/2317-maximum-xor-after-operations) |
+## Hash Table
+|  |
+| ------- |
+| [0740-delete-and-earn](https://github.com/Mukool1/Leet-Sols/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
