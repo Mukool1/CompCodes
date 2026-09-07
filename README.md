@@ -116,6 +116,7 @@
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mukool1/Leet-Sols/tree/master/0079-word-search) |
 | [0300-longest-increasing-subsequence](https://github.com/Mukool1/Leet-Sols/tree/master/0300-longest-increasing-subsequence) |
 | [3904-smallest-stable-index-ii](https://github.com/Mukool1/Leet-Sols/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -134,4 +135,20 @@
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Mukool1/Leet-Sols/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Mukool1/Leet-Sols/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Mukool1/Leet-Sols/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Mukool1/Leet-Sols/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Mukool1/Leet-Sols/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
